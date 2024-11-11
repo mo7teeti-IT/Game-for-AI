@@ -19,7 +19,12 @@ To set up your development environment, follow these steps:
    git clone https://github.com/mo7teeti-IT/Game-for-AI.git
 2. **Install Python:** Navigate to the project directory and install any required packages.
 
-3. **Install Dependencies:** cd Game-for-AI
-pip install -r requirements.txt
+3. **Install Dependencies:**
+   ```bash
+    cd Game-for-AI
 
-4. **Run your Python Code!**
+4. **Requirements:**
+   ```bash
+   pip install -r requirements.txt
+
+6. **Run your Python Code!**
