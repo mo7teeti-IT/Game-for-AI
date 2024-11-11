@@ -17,14 +17,11 @@ To set up your development environment, follow these steps:
 1. **Clone the Repository:** Use Git to clone the game repository to your local machine.
    ```bash
    git clone https://github.com/mo7teeti-IT/Game-for-AI.git
+   
 2. **Install Python:** Navigate to the project directory and install any required packages.
 
-3. **Install Dependencies:**
+3. **PyGame:** install the gamepy library
    ```bash
-    cd Game-for-AI
+   pip install gamepy
 
-4. **Requirements:**
-   ```bash
-   pip install -r requirements.txt
-
-6. **Run your Python Code!**
+4. **Run your Python Code!**
